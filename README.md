@@ -1,7 +1,7 @@
 ## Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Isaac Rodríguez, an ML/Software Engineer from Mexico. I'm currently working at a US startup called Botco.ai.
-I currently focus on NLP solutions for conversational chatbots with a heavy use of Transformer models.
+I am Isaac Rodríguez, an ML/Software Engineer from Mexico. I'm currently working at a US startup called Botco.ai
+where I focus on NLP solutions for conversational chatbots with a heavy use of Transformer models.
 On my free time I like contributing to open source communities.
 Currently collaborating with [Omdena Mexico Chapter](https://omdena.com/local-chapters/mexico-chapter/) in order to fight misinformation.
 I also collaborate with [Somos NLP](https://somosnlp.org/core-team), one of the largest communities of NLP in Spanish.
