@@ -1,10 +1,9 @@
 ## Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I'm Isaac Rodríguez, an ML/Software Engineer from Mexico. I currently work at a US startup called Botco.ai
-where I focus on NLP solutions for conversational chatbots with a heavy use of Transformer models.
+I'm Isaac Rodríguez, an ML/Software Engineer from Mexico. I currently work at a UK startup called Definely
+where I focus on NLP solutions for conversational chatbots with a heavy use of Transformer models and general MLOps and backend development for AI.
 On my free time I like contributing to open source communities.
-Currently collaborating with [Omdena Mexico Chapter](https://omdena.com/local-chapters/mexico-chapter/) in order to fight misinformation.
-I also collaborate with [Somos NLP](https://somosnlp.org/core-team), one of the largest communities of NLP in Spanish.
+I've collaborated with [Omdena Mexico Chapter](https://omdena.com/local-chapters/mexico-chapter/) in order to fight misinformation and [Somos NLP](https://somosnlp.org/core-team), one of the largest communities of NLP in Spanish.
 Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-IsaacRodriguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaacrodgz/)](https://www.linkedin.com/in/isaacrodgz/)
